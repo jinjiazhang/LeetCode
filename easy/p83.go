@@ -1,4 +1,4 @@
-package leetcode
+package easy
 
 type ListNode struct {
 	Val  int

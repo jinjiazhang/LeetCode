@@ -1,4 +1,4 @@
-package leetcode
+package easy
 
 func findMaxAverage(nums []int, k int) float64 {
 	sum := 0

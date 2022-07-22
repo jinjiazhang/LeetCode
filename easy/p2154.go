@@ -1,4 +1,4 @@
-package leetcode
+package easy
 
 func findFinalValue(nums []int, original int) int {
 	newNums := make([]int, 0)
